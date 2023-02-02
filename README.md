@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devdev2022&layout=compact)](https://github.com/devdev2022/github-readme-stats)
+[![devdev2022's GitHub stats](https://github-readme-stats.vercel.app/api?username=devdev2022)](https://github.com/devdev2022/github-readme-stats)
