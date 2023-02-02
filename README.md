@@ -25,7 +25,8 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 
 
-
+# Blog
+https://velog.io/@dev2022
 
  
 
