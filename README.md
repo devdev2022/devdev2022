@@ -25,14 +25,17 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 
 
+# Blog
+
+<a href="https://velog.io/@dev2022" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=plastic&logo=Velog&logoColor=white"/></a>
+
+
 # Stats
 
 [![devdev2022's GitHub stats](https://github-readme-stats.vercel.app/api?username=devdev2022)](https://github.com/devdev2022/github-readme-stats)
 
 
-# Blog
 
-<a href="https://velog.io/@dev2022" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=plastic&logo=Velog&logoColor=white"/></a>
  
 
 
