@@ -32,8 +32,7 @@ Here are some ideas to get you started:
 
 # Blog
 
-https://velog.io/@dev2022
-
+<a href="https://velog.io/@dev2022" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=plastic&logo=Velog&logoColor=white"/></a>
  
 
 
