@@ -25,9 +25,13 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 
 
+#COMMITS
+[![devdev2022's GitHub stats](https://github-readme-stats.vercel.app/api?username=devdev2022)](https://github.com/devdev2022/github-readme-stats)
+
+
 # Blog
 https://velog.io/@dev2022
 
  
 
-[![devdev2022's GitHub stats](https://github-readme-stats.vercel.app/api?username=devdev2022)](https://github.com/devdev2022/github-readme-stats)
+
