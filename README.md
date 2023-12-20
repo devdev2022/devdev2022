@@ -36,11 +36,6 @@ Here are some ideas to get you started:
 # Tool
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 
-# Blog
-
-<a href="https://velog.io/@dev2022" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=fff"/></a>
-
-
 # Stats
 
 [![devdev2022's GitHub stats](https://github-readme-stats.vercel.app/api?username=devdev2022)](https://github.com/devdev2022/github-readme-stats)
